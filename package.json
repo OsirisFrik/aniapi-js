@@ -1,5 +1,5 @@
 {
-  "name": "aniapi-js",
+  "name": "@osirisfrik/aniapi-js",
   "version": "1.0.0",
   "description": "aniapi js requests",
   "main": "src/index.js",
