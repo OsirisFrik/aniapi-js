@@ -1,0 +1,14 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es6",
+    "module": "CommonJS",
+    "declaration": true,
+    "strict": true,
+    "lib": [
+      "ES2015"
+    ],
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": true
+  }
+}
